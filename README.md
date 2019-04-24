@@ -49,8 +49,7 @@ cd docs/.vuepress/dist
 git init
 git add -A
 git commit -m 'deploy'
-# 推到你仓库的的 gh-page 分支
-# 将 <USERNAME>/<REPO> 替换为你的信息
+# 推到你仓库的的 master 分支
 git push -f https://github.com/SkyliHaiLan/SkyliHaiLan.github.io.git master
 ```
 
