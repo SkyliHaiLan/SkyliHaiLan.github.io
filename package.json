@@ -1,0 +1,12 @@
+{
+  "name": "vuepress-docs-test",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "vuepress": "^0.14.11"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  }
+}
