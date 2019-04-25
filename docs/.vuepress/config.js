@@ -1,9 +1,9 @@
 module.exports = {
     base:'/SkyliHaiLan.github.io/',
-    title: 'Xportal文档',
+    title: 'Xportal',
     description: '云平台产品的文档展示.',
     themeConfig: {
-        repo: 'SkyliHaiLan/vuepress-docs-test',
+        repo: 'SkyliHaiLan/SkyliHaiLan.github.io',
         lastUpdated: 'Last Updated',
         editLinks: true,
         editLinkText: '在 GitHub 上编辑此页',
