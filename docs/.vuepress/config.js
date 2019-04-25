@@ -8,6 +8,7 @@ module.exports = {
         editLinks: true,
         editLinkText: '在 GitHub 上编辑此页',
         docsDir: 'docs',
+        docsBranch: 'person-docs',
         nav: [
             { text: 'Guide', link: '/guide/'
             },
