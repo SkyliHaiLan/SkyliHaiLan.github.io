@@ -1,14 +1,16 @@
-# 介绍e
+# Markdown
+Markdown简单语法
+## 表格使用
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
-## 特性
+## 标题##以及*
 * **易学易用**，仅有 6 个 api，对 redux 用户尤其友好，[配合 umi 使用](https://umijs.org/guide/with-dva.html)后更是降低为 0 API
 
-## 在已有项目中安装
+##  Markdown js使用
 ``` js{4}
 # 安装为本地依赖项
 npm install -D vuepress

@@ -1,7 +1,7 @@
 --- 
 home: true
-actionText: 快速上手 →
-actionLink: /guide/
+actionText: 查看 →
+actionLink: /document/
 features:
 - title: 标题一
   details: 标题一 details。

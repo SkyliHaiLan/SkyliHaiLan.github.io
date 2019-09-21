@@ -1,7 +1,7 @@
 module.exports = {
     base:'/SkyliHaiLan.github.io/',
-    title: 'Xportal',
-    description: '云平台产品的文档展示.',
+    title: '李海兰博客',
+    description: '学习中的个人总结.',
     themeConfig: {
         repo: 'SkyliHaiLan/SkyliHaiLan.github.io',
         lastUpdated: 'Last Updated',
@@ -10,18 +10,19 @@ module.exports = {
         docsDir: 'docs',
         docsBranch: 'person-docs',
         nav: [
-            { text: 'Guide', link: '/guide/'
+            { text: '文档', link: '/document/'
             },
             { text: 'API', link: '/api/' }
         ],
         sidebar: {
-            '/guide/': [
+            '/document/': [
                 {
-                    title: 'Guide',
-                    children: ['','guide-test'],
+                    title: 'Markdown and Vuepress',
+                    children: ['','createDoc'],
                 },
                 {
-                    title: 'Guide2',
+                    title: '前端',
+                    children: ['webTechnologyStack', 'webLearningMethod'],
                 }
             ],
             '/api/': [
