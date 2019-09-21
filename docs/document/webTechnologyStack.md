@@ -48,7 +48,8 @@ HTML、CSS、JavaScript是入门的必修课，因此此三剑客是必须要学
     * 性能好，容易优化 
     * 简单的语法及项目搭建，更快的渲染速度和更小的体积
 * angular:angular是一个 JavaScript 框架。它可通过 script 标签添加到 HTML 页面,angularJS 通过 指令 扩展了 HTML，且通过 表达式 绑定数据到 HTML。
-    * angular性能存在很大的缺陷，当项目对性能要求不高的时候，可以使用angular，
+    * angular性能存在很大的缺陷，当项目对性能要求不高的时候，可以使用angular
+    * angular也是比较完善的前端框架，不像react,react是单一的框架需要结合其他框架一起使用，angular它有自己的服务，模版，模块化，路由，过滤器，依赖注入等所有功能。
 
 ## 中间语音
 * TypeScript:是一种由微软开发的自由和开源的编程语言。它是JavaScript的一个超集,扩展了JavaScript的语法，所以任何现有的JavaScript程序可以不加改变的在TypeScript下工作。TypeScript是为大型应用的开发而设计，而编译它时产生 JavaScript 以确保兼容性。
