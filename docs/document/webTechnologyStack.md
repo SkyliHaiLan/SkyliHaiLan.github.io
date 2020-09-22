@@ -19,7 +19,7 @@ Summary
 ## 前端技术栈
 |基础| 框架 |中间语音| UI组件库 | 代码质量检测|包管理|模块打包器|脚手架|脚本引擎|转码器|测试框架|服务器|
 |:-----:|:----:| :----: | :----: | :----: | :----: | :----: |:----: |:----: |:----: |:----: |:----: |:----: 
-|HTML| JQuery | TypeScript | Bootstrap|ESLint|npm|webPack|DvaJS|NodeJS|Babel|Jest|nginx
+|HTML| JQuery | TypeScript | Bootstrap|ESLint|npm|webpack|DvaJS|NodeJS|Babel|Jest|nginx
 | CSS | react | JSX |Ant-Design|Sonar|yarn| |UmiJS| | | | |
 | JavaScript | vue |  |Element| | | | NuxtJS | | | | |
 |  | angular |  |Material-UI| | | | | | | | |
@@ -81,7 +81,7 @@ JavaScript 与 TypeScript 的区别:
 备注：npm 和bower 的最大区别，就是 npm 支持嵌套地依赖管理，而 bower只能支持扁平的依赖（嵌套的依赖，由程序员自己解决),现在不建议使用bower了，官网也不在维护
 
 ## 模块打包器
-webpack：webPack可以看做是模块打包器：它做的事情是，分析你的项目结构，找到JavaScript模块以及其它的一些浏览器不能直接运行的拓展语言，并将其转换和打包为合适的格式供浏览器使用
+webpack：webpack可以看做是模块打包器：它做的事情是，分析你的项目结构，找到JavaScript模块以及其它的一些浏览器不能直接运行的拓展语言，并将其转换和打包为合适的格式供浏览器使用
 
 ## 脚手架
 * DvaJS: 是一个基于 redux 和 redux-saga 的数据流方案，然后为了简化开发体验，dva 还额外内置了 react-router 和 fetch，所以也可以理解为一个轻量级的应用框架。

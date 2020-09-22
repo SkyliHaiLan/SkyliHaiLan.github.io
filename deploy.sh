@@ -1,21 +1,13 @@
+# 自动部署脚本
 
-#!/usr/bin/env sh
-
-# 确保脚本抛出遇到的错误
-set -e
-
-# 生成静态文件
+# 构建
 npm run build
-
-# 进入生成的文件夹
+# 导航到构建输出目录
 cd docs/.vuepress/dist
 
 git init
 git add -A
 git commit -m 'deploy'
 
-# 如果发布到 https://<USERNAME>.github.io
-# git push -f https://github.com/SkyliHaiLan/SkyliHaiLan.github.io.git master
-
-
-cd -
+# 推到你仓库的 master 分支
+git push -f https://github.com/SkyliHaiLan/SkyliHaiLan.github.io.git master

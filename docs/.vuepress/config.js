@@ -1,7 +1,7 @@
 module.exports = {
     base:'/SkyliHaiLan.github.io/',
-    title: '李海兰博客',
-    description: '学习中的个人总结.',
+    title: '个人主页',
+    description: 'Personal Website',
     themeConfig: {
         repo: 'SkyliHaiLan/SkyliHaiLan.github.io',
         lastUpdated: 'Last Updated',
@@ -12,23 +12,32 @@ module.exports = {
         nav: [
             { text: '文档', link: '/document/'
             },
-            { text: 'API', link: '/api/' }
+            { text: '项目总结', link: '/summary/' }
         ],
         sidebar: {
             '/document/': [
+              {
+                title: 'Markdown',
+                children: [''],
+              },
                 {
-                    title: 'Markdown and Vuepress',
-                    children: ['','createDoc'],
+                    title: '文档站点的搭建',
+                    children: ['createDoc'],
                 },
                 {
                     title: '前端',
                     children: ['webTechnologyStack', 'webLearningMethod'],
                 }
             ],
-            '/api/': [
+            '/summary/': [
                 {
-                    title: 'API',
-                }
+                    title: 'Lenovo',
+                    children: ['lenovo'],
+                },
+              {
+                title: 'Webridge',
+                children: ['webridge'],
+              }
             ],
         },
     },

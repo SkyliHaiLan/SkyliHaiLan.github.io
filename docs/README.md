@@ -1,13 +1,13 @@
---- 
+    --- 
 home: true
 actionText: 查看 →
 actionLink: /document/
 features:
-- title: 标题一
-  details: 标题一 details。
-- title: 标题2
-  details: 标题2 details。
-- title: 标题3
-  details: 标题3。
+- title: 个人博客的搭建
+  details: 如何搭建一个简介的个人网站
+- title: 技术栈
+  details: 前端技术站点
+- title: 留言板
+  details: 更多问题请给我留言
 footer: MIT Licensed | Copyright © 2019-present
 ---
