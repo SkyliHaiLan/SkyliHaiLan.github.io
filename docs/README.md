@@ -1,4 +1,4 @@
-    --- 
+---
 home: true
 actionText: 查看 →
 actionLink: /document/
