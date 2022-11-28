@@ -13,7 +13,8 @@ module.exports = {
         nav: [
             { text: '文档', link: '/document/'
             },
-            { text: '项目总结', link: '/summary/' }
+            { text: '项目总结', link: '/summary/' },
+            { text: 'PMI-ACP', link: '/acp/' }
         ],
         sidebar: {
             '/document/': [
@@ -40,6 +41,12 @@ module.exports = {
                 children: ['webridge'],
               }
             ],
+            '/acp/': [
+              {
+                  title: 'ACP随手记录',
+                  children: ['','scrum'],
+              },
+          ],
         },
     },
 };
