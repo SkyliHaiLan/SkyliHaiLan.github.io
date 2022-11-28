@@ -1,5 +1,6 @@
 module.exports = {
-    base:'/SkyliHaiLan.github.io/',
+   // base:'/SkyliHaiLan.github.io/',
+  // base:'/',
     title: '个人主页',
     description: 'Personal Website',
     themeConfig: {
