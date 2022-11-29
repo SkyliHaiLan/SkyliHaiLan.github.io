@@ -11,5 +11,5 @@ features:
   details: 敏捷是一种通过创造变化和响应变化在不确定和混乱的环境中取得成功的能力
 - title: 留言板
   details: 更多问题请给我留言(todo....)
-footer: MIT Licensed | Copyright © 2019-present
+footer: MIT Licensed | Copyright © 2020-present
 ---
