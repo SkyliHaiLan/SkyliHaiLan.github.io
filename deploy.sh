@@ -10,4 +10,7 @@ git add -A
 git commit -m 'deploy'
 
 # 推到你仓库的 master 分支
-git push -f https://github.com/SkyliHaiLan/SkyliHaiLan.github.io.git master
+git push -f git@github.com:SkyliHaiLan/SkyliHaiLan.github.io.git master
+
+# 访问
+https://skylihailan.github.io/ 
