@@ -44,7 +44,11 @@ module.exports = {
             '/acp/': [
               {
                   title: 'ACP随手记录',
-                  children: ['','scrum'],
+                  children: ['','scrum','lean','program','tools','steɪkhəʊldə'],
+              },
+              {
+                title:'易错题',
+                children:['issues']
               },
           ],
         },

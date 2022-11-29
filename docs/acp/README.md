@@ -18,9 +18,9 @@
 ## 敏捷宣言
 
 1. 个体和互动   高于     流程和工具
-2. 工作的软件  高于      详尽的文档
-3. 客户合作      高于      合同谈判
-4. 响应变化      高于      遵循计划
+2. 工作的软件   高于     详尽的文档
+3. 客户合作     高于     合同谈判
+4. 响应变化     高于     遵循计划
 
 ## 敏捷十二原则
 
@@ -86,3 +86,6 @@ What?  Why?  When?  Who?  Where?  How?
 | Estimation |	估算 |
 | Collaboration	|协作  |
 | Scaling Scrum	|大规模Scrum|
+
+## 计划
+<img src="../public/img/planning.png">

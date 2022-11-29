@@ -99,6 +99,7 @@
 
 <br />
 <a name="DyN6m"></a>
+
 ### 文档梳理
 > 项目很多需求方面，除了录频，还有就文档提供，录频太长了，我这边就准备文档，查看文档请下载百度网盘
 
@@ -106,15 +107,15 @@
 
 <a name="zQKlc"></a>
 ##### PCR Blueprint
-链接:https://pan.baidu.com/s/1WnsfqCUUGOdrDtJnH1_R9A  密码:r6ol<br />
+链接:https://pan.baidu.com/s/1WnsfqCUUGOdrDtJnH1_R9A  <input type="hidden" value="密码:r6ol" /><br />
 
 <a name="9mJIQ"></a>
 ##### 表结构设计模式
-链接:https://pan.baidu.com/s/1lmOE6ZBA1H3sE_gNzqoj8w  密码:j2xd<br />
+链接:https://pan.baidu.com/s/1lmOE6ZBA1H3sE_gNzqoj8w  <input type="hidden" value="密码:j2xd" /><br />
 
 <a name="KRGNP"></a>
 ##### PCR Process
-链接:https://pan.baidu.com/s/1pnaWuAX0CHpMplZseDapNg  密码:2hdk<br />
+链接:https://pan.baidu.com/s/1pnaWuAX0CHpMplZseDapNg  <input type="hidden" value="密码:2hdk" /><br />
 
 <a name="eeuyj"></a>
 ### 心得
@@ -155,11 +156,11 @@
 
 <a name="3qSdy"></a>
 ##### 需求文档
-链接:https://pan.baidu.com/s/1TGzsKBo5PC_X5H4wq36iQQ  密码:cj2q<br />
+链接:https://pan.baidu.com/s/1TGzsKBo5PC_X5H4wq36iQQ  <input type="hidden" value="密码:cj2q" /><br />
 
 <a name="vS6xm"></a>
 ##### 开发指南
-链接:https://pan.baidu.com/s/1qdLgeVeXYzsYd5SUpCnGxA  密码:3xeg<br />
+链接:https://pan.baidu.com/s/1qdLgeVeXYzsYd5SUpCnGxA  <input type="hidden" value="密码:3xeg" /><br />
 
 <a name="xJVDg"></a>
 ### 心得
@@ -194,10 +195,10 @@ PPM项目是我的第一个纯前端项目，用的前端技术也是市面上�
 ### 文档梳理
 <a name="Qr0uT"></a>
 ##### ODP Blueprint
-链接:https://pan.baidu.com/s/1STmmWvo8pVH2CI_qi3iLKg  密码:hymm
+链接:https://pan.baidu.com/s/1STmmWvo8pVH2CI_qi3iLKg  <input type="hidden" value="密码:hymm" />
 <a name="rHR8X"></a>
 ##### 部署教程
-链接:https://pan.baidu.com/s/1hNtOACRM-yenp642oIvsKg  密码:3fig<br />
+链接:https://pan.baidu.com/s/1hNtOACRM-yenp642oIvsKg  <input type="hidden" value="密码:3fig" /><br />
 
 <a name="tkDqh"></a>
 ### 心得
