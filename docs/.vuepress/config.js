@@ -13,7 +13,7 @@ module.exports = {
         nav: [
             { text: '文档', link: '/document/'
             },
-            { text: '项目总结', link: '/summary/' },
+            { text: '工作总结', link: '/summary/' },
             { text: 'PMI-ACP', link: '/acp/' }
         ],
         sidebar: {
@@ -33,12 +33,12 @@ module.exports = {
             ],
             '/summary/': [
                 {
-                    title: 'Lenovo',
-                    children: ['lenovo'],
+                    title: '伟博瑞吉',
+                    children: ['lenovo','webridge'],
                 },
               {
-                title: 'Webridge',
-                children: ['webridge'],
+                title: '中软集团',
+                children: ['ICSS'],
               }
             ],
             '/acp/': [
