@@ -23,13 +23,17 @@ module.exports = {
                 children: [''],
               },
                 {
-                    title: '文档站点的搭建',
+                    title: '文档站点',
                     children: ['createDoc'],
                 },
                 {
-                    title: '前端',
+                    title: 'web总结',
                     children: ['webTechnologyStack', 'webLearningMethod'],
-                }
+                },
+                {
+                  title: 'uni-app',
+                  children: ['uniApp'],
+              }
             ],
             '/summary/': [
                 {
