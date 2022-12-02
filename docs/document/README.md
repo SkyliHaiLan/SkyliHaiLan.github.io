@@ -112,6 +112,10 @@ This is a warning
 
 ::: danger
 This is a dangerous warning
+::: 
+
+::: danger STOP
+危险区域，禁止通行
 :::
 
 ## 高亮js{4}

@@ -4,7 +4,7 @@ actionText: 查看 →
 actionLink: /document/
 features:
 - title: 个人博客的搭建
-  details: 如何搭建一个简介的个人网站
+  details: 如何搭建一个易简的个人网站
 - title: 技术栈
   details: 前端技术站点
 - title: 敏捷项目管理(ACP)
