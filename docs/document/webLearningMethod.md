@@ -25,7 +25,7 @@ Summary
 
 * **CSS API中文文档**，[CSS速查总表](http://css.cuishifeng.cn) 这里汇集了css 所有API，方便查看
 
-* **jQuery API中文文档**, [jQuery速查总表](http://jquery.cuishifeng.cn/) 这里汇集了jQuery各个版本的API内容
+* **jQuery API中文文档**，[jQuery速查总表](http://jquery.cuishifeng.cn/) 这里汇集了jQuery各个版本的API内容
 
 * **博客推荐**, 阮一峰的博客
 

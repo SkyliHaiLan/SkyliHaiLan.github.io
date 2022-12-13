@@ -1,8 +1,8 @@
 module.exports = {
    // base:'/SkyliHaiLan.github.io/',
   // base:'/',
-    title: '个人主页',
-    description: 'Personal Website',
+    title: '小海学前端',
+    description: 'Personal Weblog ',
     themeConfig: {
         repo: 'SkyliHaiLan/SkyliHaiLan.github.io',
         lastUpdated: 'Last Updated',
@@ -14,7 +14,8 @@ module.exports = {
             { text: '文档', link: '/document/'
             },
             { text: '工作总结', link: '/summary/' },
-            { text: 'PMI-ACP', link: '/acp/' }
+            { text: 'PMI-ACP', link: '/acp/' },
+            { text: '留言板', link: '/messages/' }
         ],
         sidebar: {
             '/document/': [
@@ -27,8 +28,8 @@ module.exports = {
                     children: ['createDoc'],
                 },
                 {
-                    title: 'web总结',
-                    children: ['webTechnologyStack', 'webLearningMethod'],
+                    title: 'Front',
+                    children: ['webTechnologyStack', 'webLearningMethod','sshConfig'],
                 },
                 {
                   title: 'uni-app',
