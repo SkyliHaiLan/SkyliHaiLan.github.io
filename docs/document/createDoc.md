@@ -5,7 +5,7 @@
 克隆github仓库代码，安装本地依赖包
 ``` bash
 # clone
-git clone https://github.com/SkyliHaiLan/SkyliHaiLan.github.io.git
+git clone git@github.com:SkyliHaiLan/SkyliHaiLan.github.io.git
 # 创建一个 package.json 文件
 cd.>package.json
 # 安装为本地依赖项
@@ -50,5 +50,5 @@ git init
 git add -A
 git commit -m 'deploy'
 # 推到你仓库的的 master 分支
-git push -f https://github.com/SkyliHaiLan/SkyliHaiLan.github.io.git master
+git push -f git@github.com:SkyliHaiLan/SkyliHaiLan.github.io.git master
 ```
