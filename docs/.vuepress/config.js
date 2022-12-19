@@ -55,7 +55,7 @@ module.exports = {
                 title:'易错题',
                 children:['issues']
               },
-          ],
+          ]
         },
-    },
+    }
 };

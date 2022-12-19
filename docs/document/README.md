@@ -118,6 +118,10 @@ This is a dangerous warning
 危险区域，禁止通行
 :::
 
+::: v-pre
+`{{ This will be displayed as-is }}`
+:::
+
 ## 高亮js{4}
 ``` js{4}
 export default {
