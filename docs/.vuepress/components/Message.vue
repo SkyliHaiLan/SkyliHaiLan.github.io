@@ -82,21 +82,21 @@ export default {
 		alert(email)
     },
 	getUserInfo(){
-		request({
-			url:'queryUser',
-			method:'get',
-			//  headers: {
-			//        //   "Content-Type": "application/octet-stream",
-			//           "Access-Control-Allow-Origin": "*",
-			//         "Access-Control-Allow-Origin": "*"
-			// }
-		})
-			.then((res) => {
-				console.log(res)
-			})
-			.catch((err) => {
-			    console.log("获取报错", err);
-			});
+		// request({
+		// 	url:'queryUser',
+		// 	method:'get',
+		// 	//  headers: {
+		// 	//        //   "Content-Type": "application/octet-stream",
+		// 	//           "Access-Control-Allow-Origin": "*",
+		// 	//         "Access-Control-Allow-Origin": "*"
+		// 	// }
+		// })
+		// 	.then((res) => {
+		// 		console.log(res)
+		// 	})
+		// 	.catch((err) => {
+		// 	    console.log("获取报错", err);
+		// 	});
 	}
   }
 }
