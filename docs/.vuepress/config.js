@@ -15,7 +15,7 @@ module.exports = {
             },
             { text: '工作总结', link: '/summary/' },
             { text: 'PMI-ACP', link: '/acp/' },
-            { text: '留言板', link: '/messages/' }
+            // { text: '留言板', link: '/messages/' }
         ],
         sidebar: {
             '/document/': [

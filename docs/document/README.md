@@ -30,7 +30,7 @@ This is an H2
 > This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
 ```
 效果如下
-> consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
+> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
 
 # 列表
 Markdown 支持有序列表和无序列表。
